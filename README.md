@@ -12,17 +12,9 @@ Alem disso, vamos trabalhar com gitflow ao final do curso e Visual Studio Code.
 
 Confira o canal do youtube TEOMEWHY.
 
-
-
 -----
 
+Pessoas participantes:
 
-
-Participantes:
-
-
-
-&nbsp;	- Pedro
-
-
+    - Pedro
 
