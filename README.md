@@ -1,13 +1,13 @@
 # Curso TeoMeWhy Git \& GitHub 2025
 
-
-
 Um curso para iniciantes apredenrem a trabalhar com versionamento de codigo e repositories remotos com GitHub.
-
 
 
 Alem disso, vamos trabalhar com gitflow ao final do curso e Visual Studio Code.
 
+Confira tudo o que temos no nosso Youtube. E gratis!! Segue o link:
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 
 Confira o canal do youtube TEOMEWHY.
